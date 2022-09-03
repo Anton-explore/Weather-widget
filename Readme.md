@@ -4,6 +4,10 @@ Simple markup for trying to work with API, use fetch method.
 
 ## How can You use it:
 
+Simply open https://anton-explore.github.io/Weather-widget/
+
+## How can You explore it locally
+
 1. Open the project locally.
 2. Open "index.html" file with Live Server.
 3. In input field type city, that You want to look weather for.
